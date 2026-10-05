@@ -3,7 +3,9 @@
 An advanced Business Intelligence dashboard designed to track key sales metrics, evaluate overall performance, and deliver actionable insights for strategic decision-making.
 
 ## 📌 Project Overview
-This Power BI project provides a comprehensive overview of sales operations, helping stakeholders monitor critical Key Performance Indicators (KPIs), analyze revenue trends, and track product or regional performance dynamically.
+This Power BI project provides a comprehensive overview of sales operations, helping stakeholders monitor critical Key Performance Indicators (KPIs), analyze revenue trends, and track product or regional performance dynamically. 
+## 🖼️ Dashboard Preview
+![Dashboard Preview](dashboard_preview.jpg.jpeg)
 
 ## 🛠️ Key Features & Technical Skills
 - **Data Modeling & ETL:** Cleaned and structured raw data to build a reliable relational data model.
